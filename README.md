@@ -1,2 +1,3 @@
-# test-repo-v2
-测试仓库从 OpenClaw GitHub Skill 创建 v2
+# Test Repository v2
+
+Created by OpenClaw GitHub Skill
